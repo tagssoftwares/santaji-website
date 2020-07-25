@@ -14,3 +14,5 @@
 Route::get('/', function () {
     return view('admin.dashboard');
 });
+
+Route::get('/contact','MenuController@index');
