@@ -11,9 +11,7 @@
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
-      <div data-aos="fade-up">
-        <xframe style="border:0; width: 50%; height: 350px;" src="https://www.google.co.in/maps/place/Santaji+english+midiam+school+wani/@20.050143,78.9494302,17z/data=!4m5!3m4!1s0x3bd31fcb9a2fdf47:0x71f4db1cd9a3b739!8m2!3d20.050143!4d78.9516189?hl=en" frameborder="0" allowfullscreen></xframe>
-      </div>
+    
 
       <div class="container" data-aos="fade-up">
 
@@ -76,6 +74,12 @@
 
         </div>
 
+      </div>
+
+      </br>
+      </br>
+      <div data-aos="fade-up">
+             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14991.980042441277!2d78.94638453136436!3d20.050651718034754!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd31fcb9a2fdf47%3A0x71f4db1cd9a3b739!2sSantaji%20english%20midiam%20school%20wani!5e0!3m2!1sen!2sin!4v1595676009465!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
       </div>
     </section><!-- End Contact Section -->
 
