@@ -99,7 +99,7 @@
     </section><!-- End Why Us Section -->
 
     <!-- ======= Features Section ======= -->
-    <!-- <section id="features" class="features">
+    <section id="features" class="features">
       <div class="container" data-aos="fade-up">
 
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
@@ -178,7 +178,7 @@
         </div>
 
       </div>
-    </section> -->
+    </section>
     
     <!-- End Features Section -->
 
